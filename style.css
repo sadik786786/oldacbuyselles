@@ -502,12 +502,7 @@ div[id="quote"] {
   position: absolute;
   inset: 0;
   z-index: 1;
-  background: linear-gradient(
-    180deg,
-    rgba(121, 139, 123, 0.88) 0%,
-    rgba(150, 149, 149, 0.72) 60%,
-    rgba(249, 247, 247, 0.82) 100%
-  );
+ 
   pointer-events: none;
 }
 
