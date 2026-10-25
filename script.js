@@ -26,13 +26,13 @@
      Change the business details in this ONE object.
 
      IMPORTANT: `whatsapp` must be in international format WITHOUT the "+"
-     sign, spaces or brackets. Example: 919076425356
+     sign, spaces or brackets. Example: 919967402626
      ======================================================================= */
   const BUSINESS = {
     name: 'OldACBuySell',
-    phoneDisplay: '+91 90764 25356',
-    phoneDial: '+919076425356',
-    whatsapp: '919076425356',
+    phoneDisplay: '+91 9967402626',
+    phoneDial: '+919967402626',
+    whatsapp: '919967402626',
     location: 'Mumbai, Maharashtra, India'
   };
 
