@@ -1477,7 +1477,7 @@ div[id="quote"] {
   height: 54px;
   border-radius: 50%;
   background: var(--green);
-  color: #fff;
+  color: #0121f1;
   box-shadow: 0 8px 22px var(--green-glow);
   transition: transform var(--t-fast), background-color var(--t-fast);
 }
